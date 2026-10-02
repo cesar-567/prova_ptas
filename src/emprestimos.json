@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nomeAluno": "joazinho",
+    "livro": "javascript básico",
+    "devolvidoEm": null
+  },
+  {
+    "id": 2,
+    "nomeAluno": "Marcos",
+    "livro": "javascript avancado",
+    "devolvidoEm": null
+  },
+  {
+    "id": 3,
+    "nomeAluno": "Ludbertnher",
+    "livro": "javascript muito avancado",
+    "devolvidoEm": "2026-10-02T18:18:24.374Z"
+  }
+]
